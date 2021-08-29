@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGQpHv9503kzbZT5tzOPn1W56zqZmrM/sM4PIFU0X0GTwJopvqaPH64lHOJXTHwhxMrNiKko0wLxPc7vTiOe5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AutoRisco\\Desktop\\SENAI\\ProjetoCode\\CodeTur\\CodeTur.Comum\\CodeTur.Comum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AutoRisco\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
+    "C:\\Users\\AutoRisco\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

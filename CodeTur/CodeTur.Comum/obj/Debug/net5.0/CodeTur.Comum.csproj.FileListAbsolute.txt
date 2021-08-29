@@ -1,0 +1,12 @@
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\bin\Debug\net5.0\CodeTur.Comum.deps.json
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\bin\Debug\net5.0\CodeTur.Comum.dll
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\bin\Debug\net5.0\ref\CodeTur.Comum.dll
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\bin\Debug\net5.0\CodeTur.Comum.pdb
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.csproj.AssemblyReference.cache
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.AssemblyInfoInputs.cache
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.AssemblyInfo.cs
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.dll
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\ref\CodeTur.Comum.dll
+C:\Users\AutoRisco\Desktop\SENAI\ProjetoCode\CodeTur\CodeTur.Comum\obj\Debug\net5.0\CodeTur.Comum.pdb
